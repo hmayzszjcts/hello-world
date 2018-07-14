@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Xue tian yi, I love you! I don't want to lose you!";
+}
